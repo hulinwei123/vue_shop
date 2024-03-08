@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    asdasd123
+    <!-- 路由占位符 -->
+    <router-view></router-view>
   </div>
 </template>
 
